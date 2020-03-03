@@ -1,4 +1,6 @@
 mkdir -p /u01/app/Downloads
+mkdir -p /u01/app/Downloads/sales_1998
+mkdir -p /u01/app/Downloads/sales_1999
 
 cd /u01/app/Downloads
 
