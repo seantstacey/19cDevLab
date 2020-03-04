@@ -11,7 +11,7 @@
 CREATE DIRECTORY downloads AS '/u01/app/Downloads';
 
 CREATE TABLESPACE EXAMPLE
-DATAFILE '/u01/app/oracle/oradata/ORCLCDB/PDB1/example01.dbf'
+DATAFILE '/u01/app/oracle/oradata/ORCLCDB/pdb1/example01.dbf'
 SIZE 200M REUSE
 AUTOEXTEND ON 
 /
